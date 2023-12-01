@@ -1,4 +1,4 @@
-import { input } from "./input.env.ts"
+import { input } from "./input.env"
 
 function solution(input: string): number {
   const codes: string[] = input.split('\n')
