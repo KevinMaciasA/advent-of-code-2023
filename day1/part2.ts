@@ -45,12 +45,4 @@ function solution(input: string): number {
   }, 0)
 }
 
-// const input = `two1nine
-// eightwothree
-// abcone2threexyz
-// xtwone3four
-// 4nineeightseven2
-// zoneight234
-// 7pqrstsixteen`
-
 console.log(solution(input))
