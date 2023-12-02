@@ -1,3 +1,4 @@
 *.env.ts
 *.d.ts
 *.js
+tsconfig.json
