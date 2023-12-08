@@ -20,6 +20,8 @@ function solution(input: string): number {
 
       return a.table[cardA] - b.table[cardB]
     }
+
+    return 0
   })
 
   return sortedPlays.reduce((acc, play, i) => {
